@@ -20,7 +20,7 @@ Desenvolvendo habilidades para pipelines de dados, otimização de processos, e 
 **🏆 Destaques Profissionais**  
   
 
-Minha jornada combina habilidades técnicas em cloud, ciência de dados, engenharia de dados e afins alavancadas por uma sólida experiência de planejamento e organização adquirida em diferentes projetos.  
+Minha jornada combina habilidades técnicas em cloud, ciência de dados, engenharia de dados e afins alavancadas por uma sólida experiência de planejamento e organização adquirida em diferentes projetos..  
   
 
 **🚀 Estou em constante evolução**  
