@@ -4,7 +4,7 @@
 **🎓 Formação e Experiência Profissional**  
   
 
-Estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital na FICR - 3º periodo.
+Estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital na FICR - 4º periodo.
 Especialização prática em computação em nuvem, por meio do programa AWS re/Start, realizado pelo Instituto Aliança, complementando minha formação técnica com habilidades práticas para o mercado de tecnologia.  
   
 
