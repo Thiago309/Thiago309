@@ -40,7 +40,7 @@ Fique à vontade para explorar meu perfil e entrar em contato!
 <br/>  
 
 
-## Habilidades 💻🖱️
+## 💻🖱️Habilidades 
 <table><tr><td valign="top" width="33%">
 
 
@@ -94,23 +94,21 @@ Fique à vontade para explorar meu perfil e entrar em contato!
 
 <br/>  
 
-## Estatísticas do Github 📈
+## 📈 Estatísticas do Github
 <img src="https://github-readme-stats.vercel.app/api?username=Thiago309&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago309&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 
 <br/>  
 
-## Contate-me 📣
+## 📣 Contate-me
 <div align="center">
 <a href="https://www.linkedin.com/in/thiagoviniciusbsantos/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Commits
 ![Snake animation](https://github.com/Thiago309/Thiago309/blob/output/github-contribution-grid-snake.svg)
@@ -119,8 +117,5 @@ Fique à vontade para explorar meu perfil e entrar em contato!
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Thiago309&&style=flat-square)  
   
-
 <br/>  
-
-
 <br/>
