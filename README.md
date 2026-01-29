@@ -14,7 +14,7 @@ Fique à vontade para explorar meu perfil e entrar em contato!
 
 
 ### 🚀 O que venho desenvolvendo:
-- 🛠️ **Data Engineering:** Experiência prática com processamento distribuído usando **PySpark e Apache Flink**, integração de mensagens com **Kafka** e armazenamento em ecossistemas **Hadoop (HDFS)**.
+- 🛠️ **Data Engineering:** Experiência prática com processamento distribuído usando **PySpark e Apache Flink**, integração de mensagens com **Kafka** e armazenamento em ecossistemas **Hadoop (HDFS/Parquet)**.
 - ☁️ **Cloud & DevOps:** Automação de infraestrutura (IaC) com **Terraform** e deploy de aplicações conteinerizadas em **AWS (ECS, EMR, S3)**.
 - 📊 **SAP:** Conhecimento em **SAP Datasphere** e **SAP Analytics Cloud (SAC)**, focado em arquitetura de dados empresarial.
   
