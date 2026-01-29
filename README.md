@@ -6,6 +6,12 @@
 <br/>  
 Sou estudante de Análise e Desenvolvimento de Sistemas na FICR, com foco em construir soluções escaláveis e automatizadas. Atualmente, navego entre o mundo da Engenharia de Dados e a cultura DevOps, buscando transformar dados em insights através de infraestrutura sólida.
 
+#### 🌐 Vamos conectar?  
+
+Fique à vontade para explorar meu perfil e entrar em contato!  
+
+---
+
 
 ### 🚀 O que venho desenvolvendo:
 - 🛠️ **Data Engineering:** Experiência prática com processamento distribuído usando **PySpark e Apache Flink**, integração de mensagens com **Kafka** e armazenamento em ecossistemas **Hadoop (HDFS)**.
@@ -30,11 +36,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FICR, com foco em con
 * **[Cluster_PySpark_Kafka](https://github.com/Thiago309/Cluster_PySpark_Kafka):** Um repositório com mais de 50 scripts Python aplicando PySpark para processamento de dados e integração com Kafka.
 * **[IaC AWS ECS](https://github.com/Thiago309/Lab5-Deploy-de-app-web-com-docker-na-AWS-com-ECS):** Projeto de automação utilizando Terraform para deploy de uma aplicação Docker com balanceamento de carga e DNS na AWS.
 * **[Agente de IA](https://github.com/Thiago309/agente_de_ia_terraform):** Desenvolvi uma versão utilizando o LLM Groq para realizar o deploy de uma aplicação web utilizando Docker e um Agente de Inteligência Artificial capaz de interagir com usuários e automatizar o provisionamento de infraestrutura por meio de práticas de Infrastructure as Code (IaC) com Terraform.
----
-#### 🌐 Vamos conectar?  
-
-Fique à vontade para explorar meu perfil e entrar em contato!  
-  
 
 <br/>  
 
