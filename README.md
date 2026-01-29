@@ -1,36 +1,37 @@
-### <div align="center">Sou um entusiasta e apaixonado por Ciências e Engenharia de Dados 📊,  e Cloud Computing ☁️.</div>  
+# Olá, tudo bem ? Sou Thiago Vinicius 👋
+
+
+### <div>Entusiasta e apaixonado por Ciências e Engenharia de Dados 📊,  e Cloud Computing ☁️.</div>  
+  
+<br/>  
+Sou estudante de Análise e Desenvolvimento de Sistemas na FICR, com foco em construir soluções escaláveis e automatizadas. Atualmente, navego entre o mundo da Engenharia de Dados e a cultura DevOps, buscando transformar dados em insights através de infraestrutura sólida.
+
+
+### 🚀 O que venho desenvolvendo:
+- 🛠️ **Data Engineering:** Experiência prática com processamento distribuído usando **PySpark e Apache Flink**, integração de mensagens com **Kafka** e armazenamento em ecossistemas **Hadoop (HDFS)**.
+- ☁️ **Cloud & DevOps:** Automação de infraestrutura (IaC) com **Terraform** e deploy de aplicações conteinerizadas em **AWS (ECS, EMR, S3)**.
+- 📊 **SAP:** Conhecimento em **SAP Datasphere** e **SAP Analytics Cloud (SAC)**, focado em arquitetura de dados empresarial.
   
 
-**🎓 Formação e Experiência Profissional**  
-  
+### 📜 Formações e Conquistas:
 
-Estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital na FICR - 4º periodo.
-Especialização prática em computação em nuvem, por meio do programa AWS re/Start, realizado pelo Instituto Aliança, complementando minha formação técnica com habilidades práticas para o mercado de tecnologia.  
-  
+- **Análise e Desenvolvimento de Sistemas** - FICR (Previsão: Dezembro 2026)
+- **Téc. em Eletrônica** - Instituto Federal de Pernambuco (Concluido: 2020)
+- **Engenharia de Dados 4.0** - Data Science Academy (Atualmente)
+- **Academia SAP DATA&AI** - Accenture Brasil
+- **Arquitetura de Sistemas Cloud Computing AWS** - SENAC/PE
+- **Técnicas de Machine Learning** - SENAC/PE
+- **1º Lugar no Campeonato Ticket de Embarque Digital** - Porto Digital / Banco do Nordeste
+- **Cloud Computing** - 2x AWS Certified, possuo os certificados: AWS Certified Cloud Practitioner (CLF-02) e AWS re/Start.[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thiago-santos.a99340bf/badges#credly)
 
-**📜🛠️ Competências e Ferramentas**  
-  
-
-Análise e visualização de dados: Experiência com Power BI, SQL e outras ferramentas de análise.
-Cloud Computing: 2x AWS Certified, possuo os certificados AWS Certified Cloud Practitioner (CLF-02) (https://www.credly.com/badges/e80bc309-816e-4374-b4e1-194fc706f2a1/linked_in_profile) e AWS re/Start (https://www.credly.com/badges/28c0648d-8f5b-4000-8f0c-25cee48ca47d/linked_in_profile).
-Desenvolvendo habilidades para pipelines de dados, otimização de processos, e criação de soluções escaláveis e eficientes em ambientes de nuvem.
-  
-  
-
-**🏆 Destaques Profissionais**  
-  
-
-Minha jornada combina habilidades técnicas em cloud, ciência de dados, engenharia de dados e afins alavancadas por uma sólida experiência de planejamento e organização adquirida em diferentes projetos..  
-  
-
-**🚀 Estou em constante evolução**  
-  
-
- Buscando oportunidades para colaborar com empresas e equipes inovadoras, sempre com foco em maximizar resultados por meio da análise estratégica e soluções tecnológicas de ponta.  
-  
-
-**🌐 Vamos conectar?**  
-  
+### 📂 Destaques do meu GitHub
+* **[IaC para Pipeline de Dados com AWS EMR e Apache Flink](https://github.com/Thiago309/Projeto-1-IaC-para-processamento-de-dados-com-AWS-EMR-e-Apache-Flink):** Automatizei o provisionamento de um ecossistema de Big Data na AWS utilizando Terraform para configurar clusters EMR com Apache Flink e Hadoop.
+* **[API de Data Science na AWS](https://github.com/Thiago309/Lab4-App-Data-Science-com-AWS-e-Terraform):** Deploy de Infraestrutura e API Para Aplicação de Data Science na AWS com Terraform.
+* **[Cluster_PySpark_Kafka](https://github.com/Thiago309/Cluster_PySpark_Kafka):** Um repositório com mais de 50 scripts Python aplicando PySpark para processamento de dados e integração com Kafka.
+* **[IaC AWS ECS](https://github.com/Thiago309/Lab5-Deploy-de-app-web-com-docker-na-AWS-com-ECS):** Projeto de automação utilizando Terraform para deploy de uma aplicação Docker com balanceamento de carga e DNS na AWS.
+* **[Agente de IA](https://github.com/Thiago309/agente_de_ia_terraform):** Desenvolvi uma versão utilizando o LLM Groq para realizar o deploy de uma aplicação web utilizando Docker e um Agente de Inteligência Artificial capaz de interagir com usuários e automatizar o provisionamento de infraestrutura por meio de práticas de Infrastructure as Code (IaC) com Terraform.
+---
+#### 🌐 Vamos conectar?  
 
 Fique à vontade para explorar meu perfil e entrar em contato!  
   
@@ -107,14 +108,9 @@ Fique à vontade para explorar meu perfil e entrar em contato!
 </div>  
   
 
-
 <br/>  
 
 
-
-  
-
- 
 ## Commits
 ![Snake animation](https://github.com/Thiago309/Thiago309/blob/output/github-contribution-grid-snake.svg)
 
@@ -126,4 +122,4 @@ Fique à vontade para explorar meu perfil e entrar em contato!
 <br/>  
 
 
-<br />
+<br/>
